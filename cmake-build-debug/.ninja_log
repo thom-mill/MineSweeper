@@ -1,0 +1,9 @@
+# ninja log v6
+2	352	1733363360169038858	CMakeFiles/Project3.dir/leaderboard.cpp.o	3423f04fc2b4ab96
+570	613	1733363529612908630	Project3	df9f7e7aa6eb038e
+2	417	1733363360168867439	CMakeFiles/Project3.dir/grid.cpp.o	ebc4409c96dd220a
+8	570	1733363529050902021	CMakeFiles/Project3.dir/main.cpp.o	8f56aa3b410506b6
+6	472	1739768318242820792	CMakeFiles/Project3.dir/leaderboard.cpp.o	46f8d43c403f999b
+5	542	1739768318242414922	CMakeFiles/Project3.dir/main.cpp.o	ff26451337eb5499
+6	547	1739768318242686335	CMakeFiles/Project3.dir/grid.cpp.o	71e82067f8108a80
+547	585	1739768318784347800	Project3	df9f7e7aa6eb038e
